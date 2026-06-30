@@ -1,0 +1,24 @@
+﻿John Smith
+john.smith@email.com
+(555) 123-4567
+
+SUMMARY
+Full Stack Developer with 4+ years experience in Python, Django, React, and AWS.
+
+EXPERIENCE
+Full Stack Developer - Tech Solutions Inc. (2021-2024)
+- Developed RESTful APIs using Django REST Framework
+- Built responsive React frontend with TypeScript
+- Deployed applications on AWS EC2 and S3
+- Implemented CI/CD pipeline with Docker
+
+Junior Developer - Startup Hub (2019-2021)
+- Maintained Python backend services
+- Created PostgreSQL database schemas
+- Collaborated using Git
+
+EDUCATION
+BS Computer Science - University of Technology (2015-2019)
+
+SKILLS
+Python, Django, React, TypeScript, AWS, Docker, PostgreSQL, Git, JavaScript

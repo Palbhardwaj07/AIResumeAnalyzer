@@ -1,0 +1,7 @@
+# app/__init__.py
+from .resume_parser import ResumeParser
+from .analyzer import ResumeAnalyzer
+from .roadmap_generator import RoadmapGenerator
+
+__all__ = ['ResumeParser', 'ResumeAnalyzer', 'RoadmapGenerator']
+__version__ = '2.0.0'
